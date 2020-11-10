@@ -1,5 +1,3 @@
----
-
 How to run:
 
     `python3 main.py --csv-path path/to/*.csv --unknown-label unknown`
