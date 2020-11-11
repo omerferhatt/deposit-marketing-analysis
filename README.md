@@ -12,3 +12,5 @@ What is project requirements:
     pandas~=1.1.3
     scikit-learn~=0.23.2
     tensorflow~=2.3.0
+
+Edit: Data analysis notebook file will be added
